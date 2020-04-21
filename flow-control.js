@@ -1,7 +1,13 @@
-function basicTeenager(age) { if age is between 13 and 19
+function basicTeenager(age >=13 || <=19);
+if (true) {
 
 }
-var basicTeenager (age <=19 || >=13)
+if (age >=13 || <=19) {console.log("You are a teenager!")
+
+}
+if
+
+
 function teenager(age) {
 
 }
